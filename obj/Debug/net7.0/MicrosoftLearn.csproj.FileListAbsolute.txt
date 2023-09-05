@@ -1,0 +1,14 @@
+C:\Users\gokha\OneDrive\Masaüstü\MicrosoftLearn\bin\Debug\net7.0\MicrosoftLearn.exe
+C:\Users\gokha\OneDrive\Masaüstü\MicrosoftLearn\bin\Debug\net7.0\MicrosoftLearn.deps.json
+C:\Users\gokha\OneDrive\Masaüstü\MicrosoftLearn\bin\Debug\net7.0\MicrosoftLearn.runtimeconfig.json
+C:\Users\gokha\OneDrive\Masaüstü\MicrosoftLearn\bin\Debug\net7.0\MicrosoftLearn.dll
+C:\Users\gokha\OneDrive\Masaüstü\MicrosoftLearn\bin\Debug\net7.0\MicrosoftLearn.pdb
+C:\Users\gokha\OneDrive\Masaüstü\MicrosoftLearn\obj\Debug\net7.0\MicrosoftLearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokha\OneDrive\Masaüstü\MicrosoftLearn\obj\Debug\net7.0\MicrosoftLearn.AssemblyInfoInputs.cache
+C:\Users\gokha\OneDrive\Masaüstü\MicrosoftLearn\obj\Debug\net7.0\MicrosoftLearn.AssemblyInfo.cs
+C:\Users\gokha\OneDrive\Masaüstü\MicrosoftLearn\obj\Debug\net7.0\MicrosoftLearn.csproj.CoreCompileInputs.cache
+C:\Users\gokha\OneDrive\Masaüstü\MicrosoftLearn\obj\Debug\net7.0\MicrosoftLearn.dll
+C:\Users\gokha\OneDrive\Masaüstü\MicrosoftLearn\obj\Debug\net7.0\refint\MicrosoftLearn.dll
+C:\Users\gokha\OneDrive\Masaüstü\MicrosoftLearn\obj\Debug\net7.0\MicrosoftLearn.pdb
+C:\Users\gokha\OneDrive\Masaüstü\MicrosoftLearn\obj\Debug\net7.0\MicrosoftLearn.genruntimeconfig.cache
+C:\Users\gokha\OneDrive\Masaüstü\MicrosoftLearn\obj\Debug\net7.0\ref\MicrosoftLearn.dll
